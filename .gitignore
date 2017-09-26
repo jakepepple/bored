@@ -1,29 +1,6 @@
 .env
 
-client/app-layout.component.js
-client/login.component.js
-client/login.component.js.map
-client/login-button.component.js
-client/add-event-button.component.js
-client/login-button.component.js.map
-client/add-event-button.component.js.map
-client/app-layout.component.js.map
-client/app.routes.js.map
-client/app.routes.js
-client/app.component.js
-client/app.component.js.map
-client/app.module.js
-client/app.module.js.map
-client/event-form.component.js
-client/event-form.component.js.map
-client/event.service.js
-client/event.service.js.map
-client/index.js
-client/index.js.map
-client/rxjs-operators.js
-client/rxjs-operators.js.map
-client/datatypes/event.js
-client/datatypes/event.js.map
+
 
 ### node etc ###
 read.txt
